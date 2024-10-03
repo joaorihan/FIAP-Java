@@ -1,0 +1,38 @@
+Requisitos Funcionais:
+Cadastro de Entrada de Veículos:
+
+O sistema deve permitir o cadastro das informações do veículo (marca, modelo, placa e horário de entrada) no momento em que o carro entra no estacionamento.
+
+Cálculo Automático do Tempo de Permanência:
+O sistema deve calcular o tempo total de permanência do veículo no estacionamento com base no horário de entrada e saída.
+
+Cálculo Automático do Valor a Pagar:
+O sistema deve calcular automaticamente o valor a ser pago pelo cliente, baseado na taxa de R$ 15,00 por hora.
+
+Consulta por Placa:
+O sistema deve permitir que o operador busque as informações do veículo pela placa no momento da retirada.
+
+Impressão de Comprovante:
+O sistema deve imprimir um comprovante com as informações de entrada, saída e valor pago, utilizando uma impressora de pequeno porte.
+
+Armazenamento de Dados:
+O sistema deve armazenar os dados dos veículos e das movimentações de entrada e saída para evitar o uso de boletos em papel.
+
+
+Análise do estudo de caso:
+
+O estudo de caso apresentado descreve um cenário comum em estacionamentos, onde o processo de registro e liberação de veículos é feito manualmente, utilizando papel carbono para registrar informações como marca, modelo, placa e horário de entrada. Esse processo atual, embora funcional, apresenta diversas ineficiências, como o tempo gasto na localização dos boletos de papel no momento da retirada do veículo, o que gera atrasos e impacta negativamente a experiência do cliente.
+
+Além disso, a dependência de papel resulta em uma grande quantidade de boletos armazenados, dificultando o controle e organização, além de aumentar os custos operacionais.
+
+Oswaldo, o proprietário, busca uma solução digital para eliminar o uso de boletos físicos e melhorar a eficiência do processo de entrada e saída de veículos. Ele já identificou sistemas semelhantes em outros estacionamentos que utilizam um software de gerenciamento integrado com uma impressora pequena para emitir comprovantes, o que demonstra que ele está ciente das soluções tecnológicas disponíveis no mercado.
+
+A solução proposta deve não apenas digitalizar o processo de registro de entrada e saída, mas também automatizar o cálculo do valor a ser cobrado, melhorar a organização e o tempo de resposta na liberação de veículos, e garantir uma interface simples e intuitiva para o operador.
+
+Essa mudança irá trazer benefícios como:
+- Agilidade no atendimento ao cliente.
+- Redução de custos operacionais com o uso de papel.
+- Maior organização e controle dos registros de entrada e saída.
+- Melhor experiência do cliente.
+
+Dessa forma, o projeto tem grande potencial de agregar valor ao negócio ao tornar o processo mais eficiente e profissional.

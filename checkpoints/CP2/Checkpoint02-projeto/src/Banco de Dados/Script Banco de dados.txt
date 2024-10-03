@@ -1,0 +1,14 @@
+CREATE DATABASE IF NOT EXISTS estacionamento;
+USE estacionamento;
+
+CREATE TABLE veiculos (
+    placa VARCHAR(10) NOT NULL,
+    marca VARCHAR(50),
+    modelo VARCHAR(50),
+    data_entrada DATETIME NOT NULL,
+    valor_pago DECIMAL(10, 2),
+    status VARCHAR(20) DEFAULT 'Estacionado' -- 'Estacionado' ou 'Liberado'
+);
+
+
+SENHA DO BANCO: 123
